@@ -1,9 +1,4 @@
 /*
-  Assignment: DataBending Exercise
-  Student: Ben Glickstein
-  Pasadena City College, Fall 2024
-  Course Name: DMA60 Creative Coding
-  Prof. George McKinney
   Project Description: This is a pixel sorting program based on brightness. It will resize to the input image. 
   It will start by sorting the pixels vertically, then when clicked it will sort them horizontally alternating between the two upon each successive click.  
   Last Modified: 10/8/24
